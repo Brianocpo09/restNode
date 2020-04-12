@@ -1,0 +1,2 @@
+//CONFIGURACIÓN DE PUERTO AUTOMATICO 
+process.env.PORT= process.env.PORT || 3000;
